@@ -1,0 +1,2 @@
+# Smart-Form
+ SmartForm is a Google Form-style web application built using the MERN stack (MongoDB, Express, React, Node.js) with modern Tailwind CSS styling. It allows users to submit personal information through a custom form and view all submissions filtered by email. The project is modular, clean, and designed for future scalability — with features like dark mode, form editing, deletion, and email notifications coming soon.
